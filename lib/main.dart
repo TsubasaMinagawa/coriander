@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                       ),
                     ),
                     RaisedButton(
-                      child: Text('ボタン'),
+                      child: Text('KBOY'),
                       onPressed: () {
                         // ここでなにかする
                         model.changeKboyText();
